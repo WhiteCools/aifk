@@ -1,4 +1,4 @@
-const API_URL = 'https://nj7cps-3001.csb.app/api';
+const API_URL = 'https://api.flazu.my/api';
 
 // Setup Collection Functions
 export async function getSetupInfo(serverId) {
